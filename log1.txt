@@ -1,0 +1,41 @@
+commit c1e3a0f1452e51dcb3cb8efe5fe84a3e443785cf
+Author: dansult33 <dansult33@gmail.com>
+Date:   Mon Jan 20 09:06:32 2025 +0400
+
+    intial commit
+
+commit e26ce086d40ded1c8dfe37df409d7a81116833a3
+Author: dansult33 <dansult33@gmail.com>
+Date:   Fri Jan 17 10:39:23 2025 +0400
+
+    Create this_is_pull_version.txt
+
+commit 61da24e5d394eb263803a806d554b4ed633271cc
+Author: dansult33 <dansult33@gmail.com>
+Date:   Fri Jan 17 10:36:02 2025 +0400
+
+    Create pulling.txt
+
+commit 2c038c4c820deabbd1f3f9ff065ba1e2b6ccb2a1
+Author: dansult33 <dansult33@gmail.com>
+Date:   Fri Jan 17 10:22:05 2025 +0400
+
+    initial commit
+
+commit fe8ef2746ab30414d838d4042fc7a73910ef36e9
+Author: dansult33 <dansult33@gmail.com>
+Date:   Fri Jan 17 10:19:53 2025 +0400
+
+    initial commit
+
+commit 762817181f4ebec3b7e67a5702874dc880eecaf2
+Author: dansult33 <dansult33@gmail.com>
+Date:   Fri Jan 17 10:16:45 2025 +0400
+
+    initial commit
+
+commit 77a0a4dcbdab7122a4fc49cc948e7785a8ef89f7
+Author: dansult33 <dansult33@gmail.com>
+Date:   Fri Jan 17 10:07:09 2025 +0400
+
+    first commit
