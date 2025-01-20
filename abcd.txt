@@ -1,2 +1,9 @@
-https://github.com/dansult33/GCIS123Class1.git
-https://github.com/dansult33/GCIS123Class1.git
+echo "# GCIS123Class1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dansult33/GCIS123Class1.git
+git push -u origin main
+
+fhebvhfjehbfjefnebf
